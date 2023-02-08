@@ -21,7 +21,7 @@ Try out our project [here](https://transcendent-paletas-3b5092.netlify.app/ "lin
     * One-click SOS
 * Mobile responsiveness
 
-## Resources used
+## Resources Used
 * Google Directions API
 * Google Geocoding API
 * Google Maps Javascript API
