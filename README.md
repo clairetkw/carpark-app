@@ -2,7 +2,7 @@
 
 ## Description
 
-The HDB Carpark App allows users to search for available lots in HDB-run carparks near their current location or a location of their choosing by making use of APIs to harness real-time data from a variety of sources. 
+The HDB Carpark App allows users to search for available lots in HDB-run carparks near their current location or a location of their choosing by using APIs to harness real-time data from a variety of sources. 
 
 Try out our project [here](https://transcendent-paletas-3b5092.netlify.app/ "link to deployed site")!
 
