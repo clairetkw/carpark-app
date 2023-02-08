@@ -19,6 +19,7 @@ Try out our project [here](https://transcendent-paletas-3b5092.netlify.app/ "lin
     * Automatically generated message for passenger route planning (via walking)
     * Emergency contact nomination 
     * One-click SOS
+* Mobile responsiveness
 
 ## Resources used
 * Google Directions API
